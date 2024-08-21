@@ -9,7 +9,9 @@ Technologies used :
  
  Css
  
- Scss
+Material UI 
+
+Redux Toolkit
  
  JavaScript
  
