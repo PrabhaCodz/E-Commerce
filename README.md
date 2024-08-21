@@ -18,4 +18,4 @@ Redux Toolkit
 
  To Run The Project :
 
-Clone the Repository : git clone https://github.com/PrabhaCodz/ E-Commerce
+Clone the Repository : git clone https://github.com/PrabhaCodz/E-Commerce
